@@ -37,6 +37,8 @@ This project is a front-end replica of a pizza delivery service, designed to sho
 4. Explore the Pizza Hut clone homepage 🍕
 5. No backend or server setup required
 
+## ✨ Future Enhancements
+
 
 ## 👩‍💻 Developed by
 
